@@ -7,3 +7,4 @@ remote change 1
 
 dev1 local change 1
 dev1 local change 2
+dev1 local change 3

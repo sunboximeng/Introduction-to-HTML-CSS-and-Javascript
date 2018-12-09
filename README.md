@@ -8,3 +8,5 @@ remote change 1
 master local change 1
 
 dev1 local change 1
+
+master remote change 2

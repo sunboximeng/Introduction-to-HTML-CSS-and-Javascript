@@ -15,5 +15,7 @@ dev1 local change 2
 dev1 local change 3
 
 dev1 remote change 2
+dev1 local change 4
+
 
 master local change 2
